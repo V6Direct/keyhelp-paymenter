@@ -1,6 +1,6 @@
 # KeyHelp Extension for Paymenter
 
-Automatically provision web hosting accounts on [KeyHelp](https://keyhelp.eu) panel through [Paymenter](https://paymenter.org) billing system.
+Automatically provision web hosting accounts on [KeyHelp](https://www.keyweb.de/en/keyhelp/keyhelp/) panel through [Paymenter](https://paymenter.org) billing system.
 
 ## Features
 
